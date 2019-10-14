@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <dimen name="headbox_width">107dp</dimen>
+    <dimen name="headbox_height">41dp</dimen>
+
+    <dimen name="eyebox_width">22dp</dimen>
+    <dimen name="eyebox_height">10dp</dimen>
+
+
+    <dimen name="midbox_width">223dp</dimen>
+    <dimen name="midbox_height">219dp</dimen>
+
+    <dimen name="armbox_width">42dp</dimen>
+    <dimen name="armbox_height">182dp</dimen>
+
+    <dimen name="legbox_width">42dp</dimen>
+    <dimen name="legbox_height">89dp</dimen>
+
+    <dimen name="footbox_width">60dp</dimen>
+    <dimen name="footbox_height">27dp</dimen>
+
+    <dimen name="txtsize">30dp</dimen>
+
+    <dimen name="smargin">10dp</dimen>
+    <dimen name="Mmargin">20dp</dimen>
+    <dimen name="Lmargin">30dp</dimen>
+
+</resources>

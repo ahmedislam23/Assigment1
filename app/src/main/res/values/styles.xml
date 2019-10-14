@@ -1,0 +1,70 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="head">
+        <item name="android:layout_width">@dimen/headbox_width</item>
+        <item name="android:layout_height">@dimen/headbox_height</item>
+        <item name="android:background">@color/commanColor</item>
+
+
+    </style>
+    <style name="eye">
+        <item name="android:layout_width">@dimen/eyebox_width</item>
+        <item name="android:layout_height">@dimen/eyebox_height</item>
+        <item name="android:background">@color/commanColor</item>
+
+
+    </style>
+    <style name="arm">
+        <item name="android:layout_width">@dimen/armbox_width</item>
+        <item name="android:layout_height">@dimen/armbox_height</item>
+        <item name="android:background">@color/commanColor</item>
+
+
+    </style>
+
+    <style name="mid">
+        <item name="android:layout_width">@dimen/midbox_width</item>
+        <item name="android:layout_height">@dimen/midbox_height</item>
+        <item name="android:background">@color/commanColor</item>
+
+
+    </style>
+
+    <style name="leg">
+        <item name="android:layout_width">@dimen/legbox_width</item>
+        <item name="android:layout_height">@dimen/legbox_height</item>
+        <item name="android:background">@color/commanColor</item>
+
+
+    </style>
+
+    <style name="foot">
+        <item name="android:layout_width">@dimen/footbox_width</item>
+        <item name="android:layout_height">@dimen/footbox_height</item>
+        <item name="android:background">@color/commanColor</item>
+
+
+    </style>
+
+
+    <style name="commonstyle">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+
+<style name="title" parent="commonstyle">
+    <item name="android:textColor">@color/title</item>
+    <item name="android:textStyle">bold</item>
+    <item name="android:textSize">@dimen/txtsize</item>
+</style>
+
+
+</resources>
